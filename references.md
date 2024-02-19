@@ -1,4 +1,4 @@
 # Big data references
 - [Turning Numbers Into Narratives: The Journey Begins at ‘Once Upon a Data Story](https://medium.com/@ipek0299/turning-numbers-into-narratives-the-journey-begins-at-once-upon-a-data-story-119506b89b0c)
-- [Reducing BigQuery Costs by 100–200x with dbt Incremental Models](https://medium.com/stackademic/reducing-bigquery-costs-by-100-200x-with-dbt-incremental-models-c4375b945b69)
-- [Optimise an Already Optimised Heavy Spark Job with Long Lineage.](https://sujit-j-fulse.medium.com/optimise-an-already-optimised-heavy-spark-job-with-long-lineage-2f6cb37f8b80)
+- [Big Data, Explained: The 5V s of Data](https://medium.com/@get_excelsior/big-data-explained-the-5v-s-of-data-ae80cbe8ded1)
+- [What is Your Data Story? How To Make Sense Of Your Data](https://medium.com/data-storytelling-corner/what-is-your-data-story-making-sense-of-your-mountain-of-numbers-281aa7350472)
